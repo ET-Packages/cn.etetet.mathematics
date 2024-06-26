@@ -15,5 +15,9 @@
   "relatedPackages": {},
   "dependencies": {
     "com.unity.mathematics": "1.2.6"
+  },
+  "publishConfig": 
+  { 
+    "registry": "https://npm.pkg.github.com/@ET-Packages" 
   }
 }
