@@ -1,9 +1,9 @@
 {
   "name": "cn.etetet.mathematics",
   "displayName": "ET.Mathematics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2022.3",
-  "description": "et mathematics",
+  "description": "一个对unity的mathematics包装，主要是增加对服务端dotnet的支持",
   "author": {
     "name": "tanghai",
     "url": "https://github.com/egametang/ET"
